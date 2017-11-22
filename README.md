@@ -1,6 +1,5 @@
 # Alistima
 
-![Settings Window](https://raw.github.com/click4abhishek/Alistima/master/SpalshScreen.jpg)
 
 This is a GUI all-in-one installer for installing Web Proxy and VPN on your system.
 Web Proxy - Privoxy (3.0.26)
