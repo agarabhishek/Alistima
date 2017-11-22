@@ -1,5 +1,7 @@
 # Alistima
 
+![Alt text](/Alistima/SplashScreen.jpg?raw=true "Optional Title")
+
 This is a GUI all-in-one installer for installing Web Proxy and VPN on your system.
 Web Proxy - Privoxy (3.0.26)
 VPN- OpenVPN(Client), VPNbook(Servers)
